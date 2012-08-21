@@ -9,9 +9,6 @@ cursor_positions:
   - :path: .gitignore
     :cursor_offset: 0
     :timestamp: 2012-08-20 16:52:24.976000 +01:00
-  - :path: Gemfile
-    :cursor_offset: 0
-    :timestamp: 2012-08-20 16:52:24.982000 +01:00
   - :path: config/application.rb
     :cursor_offset: 0
     :timestamp: 2012-08-20 16:52:25.050000 +01:00
@@ -24,4 +21,19 @@ cursor_positions:
   - :path: config/environment.rb
     :cursor_offset: 0
     :timestamp: 2012-08-20 16:52:25.056000 +01:00
+  - :path: Gemfile.lock
+    :cursor_offset: 199
+    :timestamp: 2012-08-20 18:14:32.425000 +01:00
+  - :path: Gemfile
+    :cursor_offset: 191
+    :timestamp: 2012-08-20 19:21:49.785000 +01:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 42
+    :timestamp: 2012-08-20 17:28:12.385000 +01:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 17:24:02.196000 +01:00
+  - :path: config/routes.rb
+    :cursor_offset: 1392
+    :timestamp: 2012-08-20 17:24:02.199000 +01:00
 files_to_retain: 0
