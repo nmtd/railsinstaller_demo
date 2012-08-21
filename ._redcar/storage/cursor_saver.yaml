@@ -1,39 +1,48 @@
 --- 
 cursor_positions: 
-  - :path: Rakefile
-    :cursor_offset: 0
-    :timestamp: 2012-08-20 16:52:24.965000 +01:00
-  - :path: config.ru
-    :cursor_offset: 0
-    :timestamp: 2012-08-20 16:52:24.971000 +01:00
-  - :path: .gitignore
-    :cursor_offset: 0
-    :timestamp: 2012-08-20 16:52:24.976000 +01:00
   - :path: config/application.rb
     :cursor_offset: 0
     :timestamp: 2012-08-20 16:52:25.050000 +01:00
   - :path: config/boot.rb
     :cursor_offset: 0
     :timestamp: 2012-08-20 16:52:26.475000 +01:00
-  - :path: config/database.yml
-    :cursor_offset: 0
-    :timestamp: 2012-08-20 16:52:26.481000 +01:00
   - :path: config/environment.rb
     :cursor_offset: 0
     :timestamp: 2012-08-20 16:52:25.056000 +01:00
-  - :path: Gemfile.lock
-    :cursor_offset: 199
-    :timestamp: 2012-08-20 18:14:32.425000 +01:00
-  - :path: Gemfile
-    :cursor_offset: 191
-    :timestamp: 2012-08-20 19:21:49.785000 +01:00
-  - :path: app/views/welcome/index.html.erb
-    :cursor_offset: 42
-    :timestamp: 2012-08-20 17:28:12.385000 +01:00
   - :path: app/controllers/welcome_controller.rb
     :cursor_offset: 0
     :timestamp: 2012-08-20 17:24:02.196000 +01:00
   - :path: config/routes.rb
     :cursor_offset: 1392
     :timestamp: 2012-08-20 17:24:02.199000 +01:00
+  - :path: script/rails
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 16:52:26.549000 +01:00
+  - :path: public/robots.txt
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 16:52:26.541000 +01:00
+  - :path: config/database.yml
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 16:52:26.481000 +01:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 42
+    :timestamp: 2012-08-20 17:28:12.385000 +01:00
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 16:52:24.971000 +01:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 16:52:24.976000 +01:00
+  - :path: Rakefile
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 16:52:24.965000 +01:00
+  - :path: README.rdoc
+    :cursor_offset: 0
+    :timestamp: 2012-08-20 16:52:24.960000 +01:00
+  - :path: Gemfile
+    :cursor_offset: 222
+    :timestamp: 2012-08-21 13:00:15.552000 +01:00
+  - :path: Gemfile.lock
+    :cursor_offset: 170
+    :timestamp: 2012-08-21 12:55:49.566000 +01:00
 files_to_retain: 0
